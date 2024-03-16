@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=btk_kurs_db;Trusted_Connection=True;Encrypt=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Modeller
